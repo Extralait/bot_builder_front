@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    User
+    Projects
   </div>
 </template>
 

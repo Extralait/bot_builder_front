@@ -1,10 +1,12 @@
 <template>
-$END$
+  <div class="">
+    Profile
+  </div>
 </template>
 
 <script>
 export default {
-name: "index"
+  name: 'IndexPage'
 }
 </script>
 
